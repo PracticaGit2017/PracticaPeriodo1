@@ -277,9 +277,13 @@ ul.work-images li img:hover {
 	margin:20px 0;
 }
 .footer p a {
-	color:#fff;
+	color:darkred;
 	text-decoration:none;
+	font-style: bold;
+	font-size: 20px;
+	
 }
 .footer p a:hover {
 	color:#39d084;
+
 }
