@@ -258,7 +258,7 @@ ul.work-images li img {
 	transition: all 0.2s linear;
 }
 ul.work-images li img:hover {
-	opacity:0.1;
+	opacity:0.4;
 }
 /***** Resume container *****/
 .resume h3 {
@@ -277,7 +277,7 @@ ul.work-images li img:hover {
 	margin:20px 0;
 }
 .footer p a {
-	color:darkred;
+	background:url(../img/ludi.jpeg);
 	text-decoration:none;
 	font-style: bold;
 	font-size: 20px;
