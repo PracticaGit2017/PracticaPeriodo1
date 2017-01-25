@@ -239,7 +239,7 @@ ul.work-images li:first-child {
 }
 ul.work-images li div {
 	background:url(../img/eye.png) 50% 50% no-repeat;
-	background-color: #f04949;
+	background-color: blue;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
@@ -262,9 +262,10 @@ ul.work-images li img:hover {
 	text-align:center;
 }
 .footer {
-	background:#355267;
+	background: darkred;
 	position: fixed;
-	width: 100%;
+	margin-left: 5%;
+	width: 90%;
 	bottom:0;
 }
 .footer p {
