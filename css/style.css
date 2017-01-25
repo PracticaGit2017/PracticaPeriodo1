@@ -92,7 +92,7 @@ ul.social-icons li a:hover {
 	transition: all 0.2s linear;
 }
 .skills .ps {
-	background:#30a5dc;
+	background:darkred;
 }
 .skills .ai {
 	background:#ee742b;
@@ -141,12 +141,12 @@ ul.social-icons li a:hover {
 }
 .ps2 {
 	width:90%;
-	background:#30a5dc;
+	background:darkred;
 	-moz-animation:html5 2s ease-out;
 	-webkit-animation:html5 2s ease-out;
 }
 .ai2 {
-	width:80%;
+	width:50%;
 	background:#ee742b;
 	-moz-animation:css3 2s ease-out;
 	-webkit-animation:css3 2s ease-out;
